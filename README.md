@@ -26,7 +26,7 @@ Preferred way to install is with [Composer](https://getcomposer.org/).
 Just add
 
     "require": {
-      "textalk/websocket": "1.0.*"
+      "james.rus52/websocket": "1.0.*"
     }
 
 in your projects composer.json.

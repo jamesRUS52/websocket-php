@@ -1,12 +1,16 @@
 {
-    "name": "textalk/websocket",
+    "name": "james.rus52/websocket",
     "description": "WebSocket client and server",
     "license": "MIT",
     "authors": [
         {
             "name": "Fredrik Liljegren",
             "email": "fredrik.liljegren@textalk.se"
-        }
+        },
+	{
+            "name": "Anton Davydov",
+            "email": "james.rus52@gmail.com"
+	}
     ],
     "autoload": {
         "psr-4": {"WebSocket\\": "lib"}
