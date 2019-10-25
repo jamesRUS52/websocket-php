@@ -79,6 +79,10 @@ See COPYING.
 Changelog
 ---------
 
+1.2.1
+
+ * Pong response for ping request
+
 1.2.0
 
  * Adding stream context options (to set e.g. SSL `allow_self_signed`).
